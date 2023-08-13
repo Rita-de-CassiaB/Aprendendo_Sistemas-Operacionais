@@ -1,0 +1,42 @@
+SISTEMAS OPERACIONAUS 10/08
+
+Pesquisa - PowerShell 
+
+PowerShell ISE - adm
+PowerShell - user
+
+Toda vez que o PowerShell é utilizado como administrador, ele executa a função e volta para o user
+
+Não se pode apagar a pasta system32 -- comando para a pasta - dir - que lista as pastas 
+
+Siginificados:
+
+DisplayHint - Filtra
+Snapshot - faz um backup do disco
+
+Comandos:
+
+-- Get-Date: Coleta data e hora 
+-- Get-Date -Date "08/06/2004": Coleta o dia da Semana
+-- Get-Date -DisplayHint Date: Coleta apenas a data sem o horário
+-- Get-Date -DisplayHint Time: Coleta apenas o horário sem a data
+-- Get-Date -Format "MM/DD/AAAA HH:mm K": Formata a data
+-- (Get-Date).IsDaylightSavingTime(): Se é horário de verão
+-- Get-Command -Verb Get: Comando que levam o Get no nome 
+--  clear / cls / clear-host: Comando que limpa 
+-- Get-Alias "": Mostra o que o comando faz, usando o comando dentro das ""
+-- history: Mostra o histórico de comandos 
+-- cat: cria um arquivo
+
+
+
+
+
+
+
+
+
+
+
+
+
