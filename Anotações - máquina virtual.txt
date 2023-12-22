@@ -1,0 +1,30 @@
+abrir pelo cmd 
+colar o código e yes
+-- sudo passwd ubuntu
+nova senha: labsis
+-- sudo apt update (puxa o que pode ser atualizado)
+-- sudo apt upgrade (baixa o que pode ser atualizado)
+utilizar -y para automatizar essa permissão
+ -- sudo apt install xrdp lxde-core lxde tigervn
+c(instalando o cliente xrdp + core do lxde + a inter
+face gráfica + servidor de vnc)
+Possíveis erros
+- Perda de pacote
+- Problema de RDP
+- Máquina reiniciou e não está de acordo com o Ip antigo
+
+
+
+
+LabSis: urubu 100 -- senha
+Senha root Laboratorio: #Gf47148790816
+Senha ubuntu Laboratorio: urubu100
+Senha urubu100: urubu100
+
+Laboratorio:
+user rita_03231044
+senha: urubu100
+
+Laboratorio Webdataviz:
+Senha: urubu100
+
